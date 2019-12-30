@@ -1,3 +1,11 @@
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+
 .navbar:not(.top-nav-collapse) {
   background: transparent !important;
 }
