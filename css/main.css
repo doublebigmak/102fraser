@@ -30,3 +30,17 @@ h5 {
     border-top: 3px solid #fff;
     width: 80px;
   }
+
+  .vertical-center {
+    min-height: 50%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 50vh; /* These two lines are counted as one :-)       */
+  
+    display: flex;
+    align-items: center;
+    margin-top: 15%;
+  }
+
+.flex-center{
+  flex: 0 0 100%;
+  max-width: 100%;
+}
