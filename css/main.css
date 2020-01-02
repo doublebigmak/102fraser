@@ -1,6 +1,5 @@
 html,
 body,
-header,
 .view {
   height: 100%;
 }
@@ -13,7 +12,6 @@ header,
 @media (max-width: 740px) {
     html,
     body,
-    header,
     .view {
       height: 100vh;
     }
