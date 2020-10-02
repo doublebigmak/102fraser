@@ -116,3 +116,15 @@ h5 {
   margin-top: 5%;
   height: 100%;
 }
+
+#facebook_button:hover{
+  color: #0e76a8 
+}
+
+#insta_button:hover{
+  color: #6e5494 
+}
+
+#email_button:hover{
+  color: #D44638 
+}
