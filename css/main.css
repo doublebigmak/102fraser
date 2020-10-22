@@ -1,9 +1,11 @@
 html,
 body,
+/*
 .view {
   height: 100%;
   max-height: 1920px;
 }
+*/
 
 body{
   position: relative;
